@@ -15,10 +15,10 @@ console.log(myName);
     4. Camel Case -> myLastName
 */
 
-const namaDepan = 'Himawan';
-const namaBelakang = 'Azmi';
-const namaLengkap = 'Himawan Imtikhan Azmi';
+const myFirstName = 'Himawan';
+const myLastName = 'Azmi';
+const myFullName = 'Himawan Imtikhan Azmi';
 
-console.log(namaDepan);
-console.log(namaBelakang);
-console.log(namaLengkap);
+console.log(myFirstName);
+console.log(myLastName);
+console.log(myFullName);
