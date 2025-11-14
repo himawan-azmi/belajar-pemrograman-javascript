@@ -1,3 +1,7 @@
+/* Digunakan untuk menyatakan kondisi. Bisa menggunakan tipe data boolean.
+    Dengan variabel boolean yang dipanggil dalam struktur kondisi untuk menghasilkan statement/pernyataan.
+*/
+
 const hasSIM = true;
 
 if (hasSIM) {
